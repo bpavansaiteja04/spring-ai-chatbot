@@ -1,0 +1,4 @@
+com\demo\ai\service\AIService.class
+com\demo\ai\SpringAiDemoApplication.class
+com\demo\ai\controller\HomeController.class
+com\demo\ai\controller\AIController.class
